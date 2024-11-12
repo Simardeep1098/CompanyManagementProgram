@@ -9,7 +9,7 @@ layout: default
 
 ## Objective
 
-This project is an extension of the **Company Share-Registry Management Program** developed as part of the **ITECH2306 Agile Coding** course in Semester 1, 2023. The task was to build a Java-based application that helps manage company and investor information, as well as shareholding activities such as dividends, voting, and managing shareholder details. The program uses Object-Oriented Programming principles and incorporates event-driven functionality in a GUI environment.
+The goal of this project was to build a Java-based application that helps manage company and investor information, as well as shareholding activities such as dividends, voting, and managing shareholder details. The program uses Object-Oriented Programming principles and incorporates event-driven functionality in a GUI environment.
 
 ### Skills Learned
 - Object-Oriented Programming (OOP) in Java, focusing on concepts like inheritance, polymorphism, and encapsulation.
