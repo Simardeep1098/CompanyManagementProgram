@@ -1,123 +1,34 @@
 ---
 layout: default
 ---
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+<div>
+    <a href="https://www.linkedin.com/in/simardeep1098"><img src="https://img.icons8.com/fluency/60/linkedin.png" alt="LinkedIn Icon"/></a>
+    <a href="https://github.com/Simardeep1098"><img src="https://img.icons8.com/plasticine/60/github.png" alt="GitHub Icon"/></a>
+</div>
 
 
-### Definition lists can be used with HTML syntax.
+## Objective
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+This project is an extension of the **Company Share-Registry Management Program** developed as part of the **ITECH2306 Agile Coding** course in Semester 1, 2023. The task was to build a Java-based application that helps manage company and investor information, as well as shareholding activities such as dividends, voting, and managing shareholder details. The program uses Object-Oriented Programming principles and incorporates event-driven functionality in a GUI environment.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+### Skills Learned
+- Object-Oriented Programming (OOP) in Java, focusing on concepts like inheritance, polymorphism, and encapsulation.
+- Event-driven programming for interactive menus and user choices.
+- Development and management of data structures to store company and investor details.
+- File handling for adding investors from external files.
+- Debugging, testing, and refining code in an IDE (Eclipse).
+- Version control and GitHub repository management.
 
-```
-The final element.
-```
+### Tools Used
+- **Java (JDK 11)**: Primary programming language for developing the system.
+- **Eclipse IDE**: Development environment used for coding, testing, and debugging.
+- **GitHub**: Version control for managing the codebase.
+- **Menus and File Management**: Interactive menus for user choices and integration of file handling for importing investor details.
+
+## GitHub Repository
+
+For access to the full code and implementation, visit my GitHub repository: [Company Share-Registry Management Program](https://github.com/Simardeep1098/share-registry-management)
+
+## Conclusion
+
+This project provided me with a comprehensive understanding of Java programming, particularly in object-oriented concepts and event-driven development. It also allowed me to practice software development best practices such as source code management using GitHub, debugging, and testing. Through this project, I enhanced my ability to develop modular and scalable applications that can handle complex functionalities while maintaining clear and intuitive user interfaces. It has significantly contributed to my growth as a developer, and I look forward to applying these skills to future projects.
