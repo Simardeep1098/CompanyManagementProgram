@@ -27,7 +27,7 @@ The goal of this project was to build a Java-based application that helps manage
 
 ## GitHub Repository
 
-For access to the full code and implementation, visit my GitHub repository: [Company Share-Registry Management Program](https://github.com/Simardeep1098/share-registry-management)
+For access to the full code and implementation, visit my GitHub repository: [Company Share-Registry Management Program](https://github.com/Simardeep1098/CompanyManagementProgram/tree/main/Company%20Management%20Program%20Java/src/itech2306/assignment)
 
 ## Conclusion
 
